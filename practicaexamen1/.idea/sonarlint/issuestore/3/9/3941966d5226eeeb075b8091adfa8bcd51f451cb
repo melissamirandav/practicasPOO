@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8Ô¾ô³ï0
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ò¿µãÿÿÿÿÿ8ã¾ô³ï0
+L
+java:S1068"*Remove this unused "alumno" private field.(âÐÎÎùÿÿÿÿ8ñ¾ô³ï0
+G
+java:S1068"*Remove this unused "titulo" private field.(ÿ°³¯8ñ¾ô³ï0
+O
+java:S1068"-Remove this unused "enunciado" private field.(—ß¨¼úÿÿÿÿ8ò¾ô³ï0

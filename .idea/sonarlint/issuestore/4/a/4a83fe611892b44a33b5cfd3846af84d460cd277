@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+T
+java:S1854"9Remove this useless assignment to local variable "name2".(λ–Άκωÿÿÿÿ
+E
+java:S1481"*Remove this unused "name2" local variable.(λ–Άκωÿÿÿÿ
+C
+java:S1481"-Remove this unused "quantity" local variable.(ι‹θª
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ςϋ—ϊÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ηϋ“›

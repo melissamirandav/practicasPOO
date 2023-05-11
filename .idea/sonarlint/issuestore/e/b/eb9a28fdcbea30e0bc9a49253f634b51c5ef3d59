@@ -1,0 +1,28 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "PAPEL" 9 times.(î›êÿÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "TIJERA" 6 times.(ïå„ÿÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "SPOCK" 4 times.(§•—²ùÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "PIEDRA" 6 times.(ïå„ÿÿÿÿÿ
+s	java:S135K"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+W
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(¯äÅóùÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‚ËİÀûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉË­´
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(­éÁ÷
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ŠÏÉ‰
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(û ––ıÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(€Œ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ã´øÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(»±ù£ÿÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(‘ñëŞ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(âîÂñşÿÿÿÿ
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(ªÌœ0
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(úÚõ°
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(Å»¤
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(î¼¬ÿÿÿÿÿ

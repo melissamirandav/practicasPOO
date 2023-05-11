@@ -1,0 +1,11 @@
+
+L
+java:S3740
+"/Provide the parametrized type for this generic.(ƒŽÜÅ8Ù€É£ò0
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ÿû°¸8Ú€É£ò0
+7
+java:S1220""Move this file to a named package.8Û€É£ò0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¤îžŸþÿÿÿÿ8ò€É£ò0
+>
+java:S1116 "Remove this empty statement.(¤îžŸþÿÿÿÿ8ó€É£ò0
